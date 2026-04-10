@@ -60,6 +60,7 @@ Stack: Bash/Shell, Git/GitHub, Linux Administration.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:o.omondi@students.jkuat.ac.ke)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@o.omondi)
+[![Dockerhub](https://img.shields.io/badge/Dockerhub-12100E?style=for-the-badge&logo=Dockerhub&logoColor=white)](https://hub.docker.com/repositories/smfprecise)
 
 > "Excellence is not an act, but a habit." — Let's build something scalable.!--
 
