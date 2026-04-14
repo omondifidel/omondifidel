@@ -44,11 +44,11 @@ The Challenge: Decoupling frontend logic from the data layer for better scalabil
 Engineering Wins: Built a RESTful API that supports JWT authentication, CRUD operations, and pagination.  Containerized the environment to ensure "it works on my machine" translates to "it works in production."
 Stack: Python/Flask, PostgreSQL, Docker Compose.
 
-##🐚 Linux Automation & Environment Config (The "Glue" of DevOps)
+#### 🐚 Linux Automation & Environment Config (The "Glue" of DevOps)
 
 The Challenge:    Managing complex environment variables and system dependencies.
-Engineering Wins: Specialized in Environment Configuration using .env and vercel.json to manage sensitive API keys and production settings. 
-Stack: Bash/Shell, Git/GitHub, Linux Administration.
+Engineering Wins:   Specialized in Environment Configuration using .env and vercel.json to manage sensitive API keys and production settings. 
+Stack:  Bash/Shell, Git/GitHub, Linux Administration.
 
 ---
 
