@@ -45,7 +45,8 @@ Engineering Wins: Built a RESTful API that supports JWT authentication, CRUD ope
 Stack: Python/Flask, PostgreSQL, Docker Compose.
 
 ##🐚 Linux Automation & Environment Config (The "Glue" of DevOps)
-The Challenge: Managing complex environment variables and system dependencies.
+
+The Challenge:    Managing complex environment variables and system dependencies.
 Engineering Wins: Specialized in Environment Configuration using .env and vercel.json to manage sensitive API keys and production settings. 
 Stack: Bash/Shell, Git/GitHub, Linux Administration.
 
