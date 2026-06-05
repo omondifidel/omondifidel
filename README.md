@@ -25,10 +25,17 @@ I bridge the gap between financial logic and scalable infrastructure. I speciali
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-214478?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
+🏦 NovaPay Core (Secure Blue-Green CI/CD Automation Engine)
+* **The Challenge:** Building an uncompromised, production-ready banking API lifecycle where application security vulnerability, dependency flaws, or code updates can never cause a single second of live downtime.
+* **Engineering Wins:** Designed a declarative 5-stage GitHub Actions pipeline using aggressive custom caching to optimize execution times. Injected an automated **Security Shield** (Bandit SAST & AquaSecurity Trivy CVE gates) to block vulnerable code deployments. Engineered a containerized **Blue-Green zero-downtime rollout strategy** via Docker Compose and an Nginx reverse proxy using automated internal health-check validation loops before triggering atomic traffic swaps.
+* **Stack:** Python, FastAPI, SQLAlchemy 2.0, SQLite, Docker, Docker Compose, Nginx, GitHub Actions, Bandit, Trivy.
 
 #### 🏦 Sky Bank Microservices
 * **Architecture:** 3-tier microservice system (Frontend, Flask API, PostgreSQL).
