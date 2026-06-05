@@ -28,7 +28,7 @@ I bridge the gap between financial logic and scalable infrastructure. I speciali
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23E34F26.svg?style=for-the-badge&logo=jenkins5&logoColor=white)
 
 ---
 
