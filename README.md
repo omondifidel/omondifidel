@@ -2,7 +2,7 @@
 
 🚀 Hello, I'm Fidel Mike Omondi
 
-### 🏗️ Software & DevOps Engineer | JKUAT Business Computing Graduate
+### 🏗️ Software & DevOps Engineer 
 I bridge the gap between financial logic and scalable infrastructure. I specialize in building secure Python/Flask backends and orchestrating distributed systems using **Docker** and **Kubernetes**.
 
 ---
